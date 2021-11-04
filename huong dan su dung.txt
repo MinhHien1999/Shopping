@@ -1,0 +1,11 @@
+1. Cài đặt xampp
+2. Mở xampp và start Apache và MySQL
+3. khởi động trình duyệt vào localhost/phpmyadmin hoặc bấm vào "admin" trong mục MySQL trên xampp
+4. Tạo database với tên database là "test2" với bảng mã là "utf8_unicode_ci" trên phpmyadmin
+5. Nhập file database "test2" vào
+6. Giải nén mã nguồn vào thư mục htdocs
+ 	ổ đỉa cài đặt:\xampp\htdocs
+7. Mở trình duyệt vào localhost/project để vào trang client, localhost/project/admin để vào trang admin
+8. Tài Khoản để truy cập vào trang admin là 
+Email: abc@gmail.com 
+mật khẩu: 123456789
